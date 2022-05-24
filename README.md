@@ -1,1 +1,3 @@
-"# Technical_Interview_Prep" 
+# PREPARATION FOR TECHNICAL INTERVIEW
+
+## 1) Sorting and Hash Table
