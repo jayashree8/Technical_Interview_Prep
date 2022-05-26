@@ -27,7 +27,7 @@ print(two_sum_brute([1],1))
 Method 2: Hash set approach
 Pseudocode:
 Initialize empty hash set
-for i: 0 to a.length-1
+for i: 0 to a.length
     if target-a[i] in hash set
         return pair (a[i],target-a[i])
     else
